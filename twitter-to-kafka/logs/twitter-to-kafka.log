@@ -1,0 +1,154 @@
+2021-07-11 01:06:15 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 11.0.8 on HYD-LAP-397.bbrouter with PID 9234 (/Users/kpadhi/Documents/Github Project/microservices-event-driven/twitter-to-kafka/target/classes started by kpadhi in /Users/kpadhi/Documents/Github Project/microservices-event-driven)
+2021-07-11 01:06:15 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - No active profile set, falling back to default profiles: default
+2021-07-11 01:06:16 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.604 seconds (JVM running for 1.243)
+2021-07-11 01:06:16 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - APP Started....
+2021-07-11 01:06:16 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - [-Java -Microservices -Spring -Kafka -ElasticSearch]
+2021-07-11 01:07:16 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 11.0.8 on HYD-LAP-397.bbrouter with PID 9372 (/Users/kpadhi/Documents/Github Project/microservices-event-driven/twitter-to-kafka/target/classes started by kpadhi in /Users/kpadhi/Documents/Github Project/microservices-event-driven)
+2021-07-11 01:07:16 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - No active profile set, falling back to default profiles: default
+2021-07-11 01:07:16 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.608 seconds (JVM running for 1.225)
+2021-07-11 01:07:16 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - APP Started....
+2021-07-11 01:07:16 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-07-11 01:09:24 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 11.0.8 on HYD-LAP-397.bbrouter with PID 9654 (/Users/kpadhi/Documents/Github Project/microservices-event-driven/twitter-to-kafka/target/classes started by kpadhi in /Users/kpadhi/Documents/Github Project/microservices-event-driven)
+2021-07-11 01:09:24 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - No active profile set, falling back to default profiles: default
+2021-07-11 01:09:25 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.652 seconds (JVM running for 1.273)
+2021-07-11 01:09:25 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - APP Started....
+2021-07-11 01:09:25 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Hello Microservices
+2021-07-11 01:09:25 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-07-11 01:34:36 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 11.0.8 on HYD-LAP-397.bbrouter with PID 12993 (/Users/kpadhi/Documents/Github Project/microservices-event-driven/twitter-to-kafka/target/classes started by kpadhi in /Users/kpadhi/Documents/Github Project/microservices-event-driven)
+2021-07-11 01:34:36 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - No active profile set, falling back to default profiles: default
+2021-07-11 01:34:36 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.656 seconds (JVM running for 1.191)
+2021-07-11 01:34:36 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - APP Started....
+2021-07-11 01:34:36 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Hello Microservices
+2021-07-11 01:34:36 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-07-11 01:34:36 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-07-11 01:34:36 [main] INFO  c.m.d.t.t.k.r.TwitterToKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-07-11 01:34:37 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Connection established.
+2021-07-11 01:34:37 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Receiving status stream.
+2021-07-11 01:34:37 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @SylviaObell: I’m trying to be patient but it’s giving She by Sheree’s spring summer fall collection 🥲
+2021-07-11 01:34:37 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @piinkifairy: spring in studio ghibli movies ♡ https://t.co/pRO7h1PcrH
+2021-07-11 01:34:39 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text @hiroshislovr well for me it was foxy n chica n spring trap
+2021-07-11 01:34:40 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @pimphappim: ไปดูไอจีคุณ daiki mori มา ที่เค้าแนะนำสีผมตามโทนสีผิวว มีภาพจริงด้วย จำได้ง่ายเลย ปล. เราเป็น Spring น้า 🌸 https://t.co/Taf…
+2021-07-11 01:34:41 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @twctan_: 📊: Worldwide iTunes Top 200
+
+#1. Permission To Dance - 25,195
+(=)
+#5. Butter - 13,318 (=)
+#28. Dynamite - 4,953 (=)
+#149. Film…
+2021-07-11 01:34:43 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @kdramaaa_love: #TheDevilJudgeEp3 #TheDevilJudge
+The bird is Shoebill
+That tattoo is the one meant to bring luck to its owner. ... In a…
+2021-07-11 01:34:44 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Jennie was mouthing the lyrics to spring day now stfu
+2021-07-11 01:34:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Soobin... nolur coverla
+2021-07-11 01:34:47 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @piinkifairy: spring in studio ghibli movies ♡ https://t.co/pRO7h1PcrH
+2021-07-11 01:34:47 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @Doxyaxone: 12 Weeks, 24 Lessons, Classic #MachineLearning for All. #BigData #Analytics #DataScience #AI #IoT #IIoT #Azure #Python #RSta…
+2021-07-11 01:34:47 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Back in spring, there was hope of us actually wearing real pants to work as normalcy teased a return :) https://t.co/LTGhBhnpix
+2021-07-11 01:34:48 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text BRO THIS IS REAL????????? 😭😭😭😭😭😭😭
+2021-07-11 01:34:50 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @piinkifairy: spring in studio ghibli movies ♡ https://t.co/pRO7h1PcrH
+2021-07-11 01:34:50 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text @iiJoelxJ spring :C but the closet i got is summer so i guess ill like it
+2021-07-11 01:34:51 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @piyushmittal: Comparing anyone to Ivanka and Jared is like comparing spring water to that from a sewer.
+2021-07-11 01:34:51 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @PrestonWilson44: Are players to anticipate injuries. I thought the idea was to help your team team win the World Series. If playing in…
+2021-07-11 01:34:52 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @kennybastani: I haven't been this excited about cloud-native software architecture in a long time. @Debezium CDC and @ApachePinot are t…
+2021-07-11 01:34:52 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Oh you mad your daughter fuck wit me on spring break? Well ima fuck her til the springs break
+2021-07-11 01:34:53 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @Unchained_Lotus: anyways we stan Arashi Spring I love this girl, favorite character in Scarlet Nexus rn https://t.co/A0iFQs0R9w
+2021-07-11 01:34:53 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @Doxyaxone: 12 Weeks, 24 Lessons, Classic #MachineLearning for All. #BigData #Analytics #DataScience #AI #IoT #IIoT #Azure #Python #RSta…
+2021-07-11 01:34:54 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Aristokrasinin insan üstünde etkisink ve kapitalist dünyada insanların diğer insanların nasıl varlığını baskı altına alıp ayni Kafka nın kitabındaki gibi bir böcek haline getirdiğini hiciv yoluyla müzikal bir biçimde anlatmaya çalışmışlar hanımefendi
+2021-07-11 01:34:54 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @ALSALHAN: Infographic: A Beginner’s Guide to Data Science.
+
+#DataAnalytics #datamining  
+#DataScientists #Analytics #Data #BigData #Rst…
+2021-07-11 01:34:56 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @LittleBoats2020: Spring came & went, & FFS!, came & went again!
+2021-07-11 01:34:58 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @syriahay: Paintings of Palestine dated between 1898 and 1899 by Armenian artist Yeghishe Tadevosyan. They depict the coast of Haifa, a…
+2021-07-11 01:34:58 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @ColmSantry: Following in the footsteps of Pierro & So You Think… American Pharoah @CoolmoreAus has 84 named rising 3YO ready to make a…
+2021-07-11 01:34:59 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text @MediaMarkt_es @BTS_twt #BTSMediaMarkt spring day
+2021-07-11 01:34:59 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @LilPinkKay: shushu/tong - spring 2020 
+so so dreamy 🤍 https://t.co/GEaU2map2p
+2021-07-11 01:35:00 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text 意図せずbeerdayになってしまった。かなしい。後先考えずに出ていないので、Dhallで書いてjavacでコンパイルしてjavaで実行したVimは14msで立ち上がるんですよ？？
+2021-07-11 01:35:00 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @chazzyamateurs: Just sold! Get yours! Goddesses of the Spring Equinox Part 2 https://t.co/paqdYx5Umz #MVSales https://t.co/50rbsPOk3c
+2021-07-11 01:35:01 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @YMGALLERY: a compilation of yoonmin's part in spring day
+https://t.co/4Nb3OKCwmQ
+2021-07-11 01:35:01 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @Shugah: NY spends 6 BILLION DOLLARS per year on policing so they could buy robot dogs & game busses. Meanwhile...
+2021-07-11 01:35:03 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @Shugah: NY spends 6 BILLION DOLLARS per year on policing so they could buy robot dogs & game busses. Meanwhile...
+2021-07-11 01:35:05 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text @anticapitalizm And fish on Fridays? And a month of no sweeties in Spring?
+2021-07-11 01:35:06 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Full Stack Java Developer at JPMorgan Chase Bank, N.A (Plano, TX) https://t.co/hqzzjJPObY #java
+2021-07-11 01:35:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text ランキング:13位 (アウトドア、釣り、旅行用品)
+
+送料無料　リュックカバー　防水　レインカバー　無地カバー  雨よけ ザックカバー  ア......(05:05)
+
+https://t.co/LT7jqC13DV
+2021-07-11 01:35:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @ddaenghx: só quem tava aqui em 2017/2018 sabe o quanto gongaram o bts por causa de Spring day e fake love, dizendo que eram ruins e gen…
+2021-07-11 01:35:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @kennybastani: I haven't been this excited about cloud-native software architecture in a long time. @Debezium CDC and @ApachePinot are t…
+2021-07-11 01:35:07 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text #WhatsHappeningInMyanmar #July10Coup https://t.co/NbMH1o0rT2
+2021-07-11 01:35:08 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text I hope I have enough dinner for the spring
+2021-07-11 01:35:10 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text @SkySportsNews "Kane and Sterling …. they are no spring chickens” *36 year old* Chiellini said 🤔🤣
+2021-07-11 01:35:11 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @piinkifairy: spring in studio ghibli movies ♡ https://t.co/pRO7h1PcrH
+2021-07-11 01:35:12 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text @Scientits East is East
+This is England
+All or Nothing
+Educating Rita
+Billy Elliot
+I Daniel Blake
+Spring and Port Wine
+Anita & Me
+Nil by Mouth
+Kidulthood
+Tyrannosaur
+The Arbor
+Pride
+Brassed Off
+2021-07-11 01:35:12 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @ddaenghx: só quem tava aqui em 2017/2018 sabe o quanto gongaram o bts por causa de Spring day e fake love, dizendo que eram ruins e gen…
+2021-07-11 01:35:17 [SpringApplicationShutdownHook] INFO  c.m.d.t.t.k.r.TwitterToKafkaStreamRunner - closing twitter stream!
+2021-07-11 02:09:04 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 11.0.8 on HYD-LAP-397.bbrouter with PID 18050 (/Users/kpadhi/Documents/Github Project/microservices-event-driven/twitter-to-kafka/target/classes started by kpadhi in /Users/kpadhi/Documents/Github Project/microservices-event-driven)
+2021-07-11 02:09:04 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - No active profile set, falling back to default profiles: default
+2021-07-11 02:09:05 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.937 seconds (JVM running for 1.656)
+2021-07-11 02:09:05 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - APP Started....
+2021-07-11 02:09:05 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Hello Microservices
+2021-07-11 02:09:05 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-07-11 02:09:05 [main] INFO  c.m.d.t.t.k.r.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords: [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-07-11 02:09:05 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Fusce lectus sit Kafka ulticies magna
+2021-07-11 02:09:06 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text sed purus Fusce Java Fusce lectus
+2021-07-11 02:09:07 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text elit lectus Maecenas Spring massa Lorem
+2021-07-11 02:09:08 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text magna conque amet Spring massa conque
+2021-07-11 02:09:09 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text libero Maecenas libero Microservices lectus elit
+2021-07-11 02:09:10 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text porttitor amet dolor Spring amet Fusce
+2021-07-11 02:09:11 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text purus amet dolor Spring sed elit
+2021-07-11 02:09:12 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text ipsum Maecenas libero ElasticSearch Maecenas libero
+2021-07-11 02:09:13 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text amet massa consectetuer Microservices malesuada Maecenas
+2021-07-11 02:09:14 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text libero ulticies purus ElasticSearch amet Maecenas
+2021-07-11 02:09:15 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text adipiscing ulticies Lorem Microservices amet porttitor
+2021-07-11 02:09:16 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text dolor Lorem adipiscing ElasticSearch sit posuere
+2021-07-11 02:09:17 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text porttitor ipsum ipsum Kafka massa consectetuer
+2021-07-11 02:09:18 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text dolor purus malesuada Spring malesuada amet
+2021-07-11 02:09:19 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text lectus sed ulticies Microservices malesuada ipsum
+2021-07-11 02:09:20 [pool-1-thread-1] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text porttitor massa lectus ElasticSearch consectetuer adipiscing
+2021-07-11 02:09:38 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 11.0.8 on HYD-LAP-397.bbrouter with PID 18131 (/Users/kpadhi/Documents/Github Project/microservices-event-driven/twitter-to-kafka/target/classes started by kpadhi in /Users/kpadhi/Documents/Github Project/microservices-event-driven)
+2021-07-11 02:09:38 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - No active profile set, falling back to default profiles: default
+2021-07-11 02:09:38 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.635 seconds (JVM running for 1.213)
+2021-07-11 02:09:38 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - APP Started....
+2021-07-11 02:09:38 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Hello Microservices
+2021-07-11 02:09:38 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-07-11 02:09:38 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-07-11 02:09:38 [main] INFO  c.m.d.t.t.k.r.TwitterToKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-07-11 02:09:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Connection established.
+2021-07-11 02:09:40 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Receiving status stream.
+2021-07-11 02:09:40 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Hello there
+I am a professional graphic t-shirt tee spring T-shirt and logo designer.
+Do you need any kind of t-shirt design
+Just inbox me.
+https://t.co/uczibFoXHV
+#amzonprime#amzon #amazontshirt#tshirt#tiktok #typography #typographydesign#Fiverr 
+#seller#graphicdesign#><b
+2021-07-11 02:09:43 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @pimphappim: ไปดูไอจีคุณ daiki mori มา ที่เค้าแนะนำสีผมตามโทนสีผิวว มีภาพจริงด้วย จำได้ง่ายเลย ปล. เราเป็น Spring น้า 🌸 https://t.co/Taf…
+2021-07-11 02:09:44 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Hello there
+I am a professional graphic t-shirt tee spring T-shirt and logo designer.
+Do you need any kind of t-shirt design
+Just inbox me.
+https://t.co/uczibFoXHV
+#amzonprime#amzon #amazontshirt#tshirt#tiktok #typography #typographydesign#Fiverr 
+#seller#graphicdesign#><n
+2021-07-11 02:09:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @BethesdaBeat: Montgomery County police said two men were shot and injured during separate incidents in the same area of Silver Spring l…
+2021-07-11 02:09:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Wow!
+ #cryptoart #technology #Python #javascript #Java #NEWS #success #Science #BigData #Analytics #DataScience #AI #MachineLearning #IOTA #Apple  #CloudComputing #Linux #Programming #coding #100DaysOfCode #photooftheday #Android
+ #lol https://t.co/xpY7hSpOoQ
+2021-07-11 02:09:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text @patrick_http Faz em java man
+2021-07-11 02:09:48 [SpringApplicationShutdownHook] INFO  c.m.d.t.t.k.r.TwitterToKafkaStreamRunner - closing twitter stream!
