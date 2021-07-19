@@ -152,3 +152,49 @@ https://t.co/uczibFoXHV
  #lol https://t.co/xpY7hSpOoQ
 2021-07-11 02:09:46 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text @patrick_http Faz em java man
 2021-07-11 02:09:48 [SpringApplicationShutdownHook] INFO  c.m.d.t.t.k.r.TwitterToKafkaStreamRunner - closing twitter stream!
+2021-07-11 11:45:33 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 11.0.8 on HYD-LAP-397.bbrouter with PID 23163 (/Users/kpadhi/Documents/Github Project/microservices-event-driven/twitter-to-kafka/target/classes started by kpadhi in /Users/kpadhi/Documents/Github Project/microservices-event-driven)
+2021-07-11 11:45:33 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - No active profile set, falling back to default profiles: default
+2021-07-11 11:45:33 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.615 seconds (JVM running for 1.311)
+2021-07-11 11:45:33 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - APP Started....
+2021-07-11 11:45:33 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - Hello Microservices
+2021-07-11 11:45:33 [main] INFO  c.m.d.t.t.k.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-07-11 11:45:33 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-07-11 11:45:33 [main] INFO  c.m.d.t.t.k.r.TwitterToKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-07-11 11:45:34 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Connection established.
+2021-07-11 11:45:34 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Receiving status stream.
+2021-07-11 11:45:34 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @spring_dog_jiro: あがりました〜
+
+３つのクリスタルカードから１つを選んでください。
+それがあなたの一週間〜〜〜〜
+
+どうか健康で、元気に過ごせますように。
+
+『７月１２日・月曜日からの１週間を占ってみた。』
+⇒ https://t.co/hIItN52…
+2021-07-11 11:45:36 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text #WhatsHappeningInMyanmar 
+#July11Coup https://t.co/LR1ZQXL56Z
+2021-07-11 11:45:36 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Salah satu hal terbodoh yg pernah aku lakuin ke bangtan: kritik lagu spring day 🤣 alasannya: karena bukan lagu upbeat / dance. 
+
+Padahal ada koreo nya 🤣 kan gubluk. Buset dah, padahal waktu itu umur udah mau 22 tapi kok labil bgt ya 🤣🤣
+2021-07-11 11:45:36 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text Tp beberapa jam stelah spring day rilis, akhirnya nyadar juga kalau spring day buagusss poll + punya cerita & makna yg dalem bgt 😭😭😒😒
+2021-07-11 11:45:37 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @ssujams: 210709 #Jin focus - Spring Day + Permission to Dance
+🖥 https://t.co/MxtSsYQ351
+🖥 https://t.co/0N8e4RETnu
+🔗 https://t.co/Nz2eV5…
+2021-07-11 11:45:37 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @Doxyaxone: The Rise of Vector Data. #Python #BigData #Analytics #AI #DataScience #IoT #IIoT #Azure #RStats #DotNet #C #CPP #Java #Flutt…
+2021-07-11 11:45:38 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @Doxyaxone: 3 Key Topics for #DataScience in the Enterprise. #Python #BigData #Analytics #AI #IoT #IIoT #Azure #RStats #DotNet #C #CPP #…
+2021-07-11 11:45:41 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @jimintoday__: 세월이 지나 보라색 풍선으로 가득해진 세탁기 
+🥺🎈💜
+
+봄날                                     Permission
+Spring Day                          to D…
+2021-07-11 11:45:42 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @mankai_company: ★A3! SUNNY SPRING EP特設サイトOPEN★
+7/21発売予定の『A3! SUNNY SPRING EP』特設サイトがOPENいたしました！
+春組6人の満開な笑顔を楽しめる、ポップなデザインのサイトとなっております。CDの…
+2021-07-11 11:45:43 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @Doxyaxone: The Rise of Vector Data. #Python #BigData #Analytics #AI #DataScience #IoT #IIoT #Azure #RStats #DotNet #C #CPP #Java #Flutt…
+2021-07-11 11:45:44 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text @GlobalBTSVoting @BTS_twt Spring day
+
+I vote for #BTS  #Butter and #ARMY  at the #KCAMexico  2021 (@BTS_twt )
+2021-07-11 11:45:44 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @Doxyaxone: 3 Key Topics for #DataScience in the Enterprise. #Python #BigData #Analytics #AI #IoT #IIoT #Azure #RStats #DotNet #C #CPP #…
+2021-07-11 11:45:47 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.l.TwitterToKafkaListener - Twitter status with text RT @piinkifairy: spring in studio ghibli movies ♡ https://t.co/pRO7h1PcrH
+2021-07-11 11:45:47 [SpringApplicationShutdownHook] INFO  c.m.d.t.t.k.r.TwitterToKafkaStreamRunner - closing twitter stream!
